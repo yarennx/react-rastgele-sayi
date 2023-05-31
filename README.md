@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # react-rastgele-sayi
 
 <p>Ekran Gifi Eklendi</p>
-<img src="/sayi-ekran.gif">
+<img src="/src/sayi-ekran.gif"/>
